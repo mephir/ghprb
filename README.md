@@ -1,3 +1,5 @@
+Please use main repository, this fork is only created for personal adjustments. I'm not Java developer, but to make it work I was forced to add small changes, like removing build parameters which were breaking ant build.
+
 # GitHub Pull Request Builder Plugin
 
 This Jenkins plugin builds pull requests from GitHub and will report the results directly to the pull request via
