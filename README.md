@@ -1,4 +1,4 @@
-Please use main repository, this fork is only created for personal adjustments. I'm not Java developer, but to make it work I was forced to add small changes, like removing build parameters which were breaking ant build. - Pawel Wilk
+Please use main repository, this fork is only created for personal adjustments. I'm not Java developer, but to make it work I was forced to add small changes, like removing dhprb build parameters which were breaking ant build. - Pawel Wilk
 
 # GitHub Pull Request Builder Plugin
 
